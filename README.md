@@ -1,4 +1,4 @@
-# Cybersecurity-homelab-project
+# Cybersecurity-Homelab-Project
 Network Architecture
 
 Ubuntu Server 192.168.0.20 - - - - Windows10 192.168.0.19 | <-------- Kali 192.168.0.17
